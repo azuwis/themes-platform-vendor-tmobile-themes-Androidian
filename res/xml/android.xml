@@ -196,7 +196,9 @@
     <item name="drawable/stat_sys_battery_charge_anim5">@drawable/frameworks_res_stat_sys_battery_charge_anim5</item>
     <item name="drawable/stat_sys_battery_charge_anim4">@drawable/frameworks_res_stat_sys_battery_charge_anim4</item>
     <item name="drawable/stat_sys_battery_charge_anim3">@drawable/frameworks_res_stat_sys_battery_charge_anim3</item>
+    <item name="drawable/stat_sys_battery_charge_anim2">@drawable/frameworks_res_stat_sys_battery_charge_anim2</item>
     <item name="drawable/stat_sys_battery_charge_anim1">@drawable/frameworks_res_stat_sys_battery_charge_anim1</item>
+    <item name="drawable/stat_sys_battery_charge_anim0">@drawable/frameworks_res_stat_sys_battery_charge_anim0</item>
     <item name="drawable/stat_sys_battery_100">@drawable/frameworks_res_stat_sys_battery_100</item>
     <item name="drawable/stat_sys_battery_95">@drawable/frameworks_res_stat_sys_battery_95</item>
     <item name="drawable/stat_sys_battery_90">@drawable/frameworks_res_stat_sys_battery_90</item>
@@ -214,6 +216,10 @@
     <item name="drawable/stat_sys_battery_30">@drawable/frameworks_res_stat_sys_battery_30</item>
     <item name="drawable/stat_sys_battery_25">@drawable/frameworks_res_stat_sys_battery_25</item>
     <item name="drawable/stat_sys_battery_20">@drawable/frameworks_res_stat_sys_battery_20</item>
+    <item name="drawable/stat_sys_battery_15">@drawable/frameworks_res_stat_sys_battery_15</item>
+    <item name="drawable/stat_sys_battery_10">@drawable/frameworks_res_stat_sys_battery_10</item>
+    <item name="drawable/stat_sys_battery_5">@drawable/frameworks_res_stat_sys_battery_5</item>
+    <item name="drawable/stat_sys_battery_0">@drawable/frameworks_res_stat_sys_battery_0</item>
     <item name="drawable/status_bar_item_background_focus">@drawable/frameworks_res_status_bar_item_background_focus</item>
     <item name="drawable/status_bar_item_background_pressed">@drawable/frameworks_res_status_bar_item_background_pressed</item>
     <item name="drawable/btn_search_dialog_pressed">@drawable/frameworks_res_btn_search_dialog_pressed</item>
